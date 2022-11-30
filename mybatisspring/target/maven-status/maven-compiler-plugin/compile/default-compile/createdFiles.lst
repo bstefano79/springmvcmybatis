@@ -1,0 +1,6 @@
+com\mybatisspring\config\WebConfig.class
+com\mybatisspring\model\User.class
+com\mybatisspring\config\MybatisConfig.class
+com\mybatisspring\repository\UserRepository.class
+com\mybatisspring\controller\HomeController.class
+com\mybatisspring\initializer\SpringWebInitializer.class
